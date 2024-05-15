@@ -15,7 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on my Data Science Portfolio.
+- 🧩 Currently working on my Data Science Portfolio.
+- 🎓 I am an Electrical Engineer.
+- 💻 Worked for 11 years with Business Administration, including Project Management and MIS (Management Information System).
+- ⚙ Programming experience working with Python, SQL, C and VBA for MS Office.
+- 🏆 The Freescale Cup (2013, China) - our team scored 4th place.
+- ⚡ Fun fact: my hobbies are travelling, music (singing and playing the guitar) and going to the gym.
+
+<!--
+-  📪 Want to get in touch? Email me: diego@email.meuemail.com  
+-->
 <br>
 <br>
 <br>
@@ -26,3 +35,5 @@ Here are some ideas to get you started:
 - Other tools (advanced level): PowerBI, Qlikview, Excel, PowerPoint, Project and Word.
 - Language skills: fluent English and intermediate level of Spanish.
 - Soft Skills: teamwork, logical thinking, attention to detail and clear and objective communication.
+
+- 
