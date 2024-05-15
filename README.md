@@ -16,10 +16,13 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on my Data Science Portfolio.
+<br>
+<br>
+<br>
 
 ## SKILLS
-Data Science Tools: scikit-learn for Machine Learning, pandas/SQL for data analysis, matplotlib/seaborn for charts.
-Programming: Python, SQL, C and VBA for MS Office.
-Other tools (advanced level): PowerBI, Qlikview, Excel, PowerPoint, Project and Word.
-Language skills: fluent English and intermediate level of Spanish.
-Soft Skills: teamwork, logical thinking, attention to detail and clear and objective communication.
+- Data Science Tools: scikit-learn for Machine Learning, pandas/SQL for data analysis, matplotlib/seaborn for charts.
+- Programming: Python, SQL, C and VBA for MS Office.
+- Other tools (advanced level): PowerBI, Qlikview, Excel, PowerPoint, Project and Word.
+- Language skills: fluent English and intermediate level of Spanish.
+- Soft Skills: teamwork, logical thinking, attention to detail and clear and objective communication.
