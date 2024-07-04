@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🧩 Currently working on my Data Science Portfolio.
+- 🧩 Currently working on my Data Science Portfolio (check out **london-airbnb** folder).
 - 🎓 I am an Electrical Engineer.
 - 💻 Worked for 11 years with Business Administration, including Project Management and MIS (Management Information System).
 - ⚙ I have programming experience with Python, SQL, C and VBA for MS Office.
