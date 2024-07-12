@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <br>
 
 ## SKILLS
-- Data Science Tools: machine learning with xgboost and scikit-learn (including Pipeline), data analysis with pandas/SQL, and charts with matplotlib/seaborn. Web scrapping with beautifulsoup and selenium.
+- Data Science Tools: machine learning with xgboost and scikit-learn (including Pipeline), data analysis with pandas/SQL, and charts with matplotlib/seaborn. Web scraping with beautifulsoup and selenium.
 - Data Science Models: linear regression, polynomial regression, SVM, decision trees, logistic regression, Naive Bayes, K-nearest neighbors, ensembles, and neural networks. Ridge and Lasso regularization. Principal Component Analysis (PCA) for dimensionality reduction.
 - Programming: Python, SQL, C and VBA for MS Office.
 - Other tools (advanced level): PowerBI, Qlikview, Excel, PowerPoint, Project and Word.
