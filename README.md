@@ -30,9 +30,12 @@ Here are some ideas to get you started:
 <br>
 
 ## SKILLS
-- Data Science Tools: machine learning with xgboost and scikit-learn (including Pipeline), data analysis with pandas/SQL, and charts with matplotlib/seaborn. Web scraping with beautifulsoup and selenium.
-- Data Science Models: linear regression, polynomial regression, SVM, decision trees, logistic regression, Naive Bayes, K-nearest neighbors, ensembles, and neural networks. Ridge and Lasso regularization. Principal Component Analysis (PCA) for dimensionality reduction.
-- Programming: Python, SQL, C and VBA for MS Office.
-- Other tools (advanced level): PowerBI, Qlikview, Excel, PowerPoint, Project and Word.
-- Language skills: fluent English and intermediate level of Spanish.
-- Soft Skills: teamwork, logical thinking, attention to detail and clear and objective communication.
+- **Programming**: VBA for MS Office, SQL, Python, C.
+- **Tools (Expertise level)**: Excel, PowerBI, Qlikview, PowerPoint, Project, Word.
+- **Languages**: fluent English and intermediate level of Spanish.
+- **Soft Skills**: teamwork, logical thinking, organization and clear and objective communication.
+- **Data Science Tools**: machine learning with XGBoost/scikit-learn, data analysis with pandas/SQL, data visualization
+with matplotlib/seaborn, and web scraping with BeautifulSoup and Selenium.
+- **Data Science Models**: linear regression, polynomial regression, SVM, decision trees, logistic regression, Naive Bayes,
+K-nearest neighbors, ensembles, neural networks, Ridge and Lasso regularization, and Principal Component Analysis
+(PCA) for dimensionality reduction.
