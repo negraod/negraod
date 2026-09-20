@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔎 Senior Data Analyst with 10+ years of experience in performance analytics, business intelligence, and scalable data infrastructure.
-- 🚚 Most recently, sole data analyst for a strategic logistics planning team at Mercado Livre (e-commerce & logistics), re-architecting a legacy pipeline into a modular BigQuery data model (50+ tables) using dimensional modeling principles, and building Tableau dashboards for daily operational decisions.
+- 🚚 Most recently, sole data analyst for a strategic logistics planning team at Mercado Livre (e-commerce & logistics), re-architecting a legacy pipeline into a modular BigQuery data model (50+ tables) using dimensional modeling principles, orchestrating 30+ dependent SQL transformation steps (scheduled through an internal orchestration tool), and building Tableau dashboards for daily operational decisions.
 - 🤖 Used Claude Code and other AI tools to build analytics products faster and at greater depth, including a full-featured cost dashboard adopted by regional logistics teams.
 - 🌎 Earlier in my career, 6.5 years at Logicalis (IT services, LATAM), automating executive reporting consolidations across 11 countries and preparing performance reports for CEO and UK-based leadership, cutting reporting time by more than half.
 - 🎓 BSc in Electrical and Electronic Engineering (Escola Politecnica da USP).
